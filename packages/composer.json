@@ -1,0 +1,16 @@
+{
+    "name": "wyj/avatar",
+    "description": "wyj",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wyj\\Avatar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wyj"
+        }
+    ],
+    "require": {}
+}
